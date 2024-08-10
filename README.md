@@ -10,5 +10,7 @@ As a data analyst, your task is to develop interactive dashboards using Tableau 
 # Project completion remarks :
 
 Created interactive Tableau dashboards to analyze investment performance and identify key risk factors.
+
 Improved decision-making by providing actionable insights through data-driven visualizations.
+
 Collaborated with financial analysts to align dashboards with business objectives.
